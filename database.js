@@ -7,7 +7,85 @@ var database = {
 		"vname": "Niklas",
 		"nname": "Fanslau",
 		"mail": "nik.fanslau@gmail.com"
-	}],
+	}, {
+		"vname": "Daniel",
+		"nname": "Oesterreich",
+		"mail": "daniel-oesterreich@gmx.de"
+}
+		  , {
+		"vname": "Michael",
+		"nname": "Schubert",
+		"mail": "x"
+}, {
+		"vname": "Max",
+		"nname": "Holzporz",
+		"mail": "x"
+}, {
+		"vname": "Aaron",
+		"nname": "Schroers",
+		"mail": "x"
+}, {
+		"vname": "Jan-Phillip",
+		"nname": "Beckers",
+		"mail": "x"
+}, {
+		"vname": "Hannah",
+		"nname": "Linnatz",
+		"mail": "x"
+}, {
+		"vname": "Paula",
+		"nname": "Struwe",
+		"mail": "x"
+}, {
+		"vname": "Felix",
+		"nname": "Tempfli",
+		"mail": "x"
+}, {
+		"vname": "Felix",
+		"nname": "Frambach",
+		"mail": "x"
+}, {
+		"vname": "Emir",
+		"nname": "x",
+		"mail": "x"
+}, {
+		"vname": "Dominik",
+		"nname": "Scholz",
+		"mail": "x"
+}, {
+		"vname": "Cedric",
+		"nname": "Hamacher",
+		"mail": "x"
+}, {
+		"vname": "Jan-Lucas",
+		"nname": "Meyer",
+		"mail": "x"
+}, {
+		"vname": "Leon",
+		"nname": "Preusser",
+		"mail": "x"
+}, {
+		"vname": "Jasmin",
+		"nname": "Schafganz",
+		"mail": "x"
+}, {
+		"vname": "Laura",
+		"nname": "Krumpkamp",
+		"mail": "x"
+}, {
+		"vname": "Celina",
+		"nname": "Abraham",
+		"mail": "x"
+}, {
+		"vname": "Bastian",
+		"nname": "Blasberg",
+		"mail": "x"
+}, {
+		"vname": "Savas",
+		"nname": "Papapostulou",
+		"mail": "x"
+} 
+		],
 	"lehrer": [{
 			"vname": "Folke",
 			"nname": "Andräs",
